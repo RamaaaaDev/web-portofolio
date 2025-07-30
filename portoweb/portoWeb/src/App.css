@@ -1,0 +1,8 @@
+:root {
+  --primaryColor: #1A1A1A;
+  --secondaryColor: #FFF;
+  --accentCOlor: #D4AF37;
+}
+ body {
+  margin: 0;
+ }
